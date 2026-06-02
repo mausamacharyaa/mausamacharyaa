@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a CS Student who loves building stuffs and learning things!
+I'm a CS Student who loves building stuffs and learning new things!
 
 ---
 
